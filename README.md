@@ -1,5 +1,6 @@
 # Python Map Shuffle Reduce
 
+<<<<<<< HEAD
 * Ejecución queries:
 type compras.data | python m1.py | sort | python r1.py
 
@@ -20,3 +21,6 @@ determinado.
 9. Ciudad con más envíos. Entrada de envíos más salida de envíos.
 10. Balance de facturación para una ciudad determinada. Ventas cuyo envío se realiza desde una
 ciudad menos las ventas enviadas a dicha ciudad.
+=======
+
+>>>>>>> 7e986ffead05803b7dc34f80f68119ca78ca3351

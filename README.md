@@ -1,3 +1,1 @@
-# Python Map Shuffle Reduce
-
 
